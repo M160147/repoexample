@@ -6,3 +6,6 @@ Welcome to 1st git file
 1st commit
 
 2nd commit
+
+
+4th Try to merge proposed changes
